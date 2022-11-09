@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Vladovez
 - 👀 I’m interested in Pythone
 - 🌱 I’m currently learning snake ssss
-- 💞️ I’m looking to collaborate on girls)
 - 📫 How to reach me vladislavalhovskii@gmail.com
 
 <!---
