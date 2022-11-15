@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Vladovez
-- 👀 I’m interested in Pythone
-- 🌱 I’m currently learning snake ssss
-- 📫 How to reach me vladislavalhovskii@gmail.com
+
+- 👀 Interested in Pythone
+- 📫 vladislavalhovskii@gmail.com
 
 <!---
 Vladovez/Vladovez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
